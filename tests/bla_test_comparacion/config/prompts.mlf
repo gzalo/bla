@@ -1,0 +1,3151 @@
+#!MLF!#
+"*/0_gz005.lab"
+0 8973 cero
+.
+"*/0_gz039.lab"
+0 10102 cero
+.
+"*/0_gz039_.lab"
+0 9550 cero
+.
+"*/0_gz088.lab"
+0 10021 cero
+.
+"*/0_gz088_.lab"
+0 10119 cero
+.
+"*/0_gz157.lab"
+0 6011 cero
+.
+"*/0_gz163.lab"
+0 7419 cero
+.
+"*/0_gz175.lab"
+0 8737 cero
+.
+"*/0_gz175_.lab"
+0 8479 cero
+.
+"*/0_gz175__.lab"
+0 6607 cero
+.
+"*/0_gz181.lab"
+0 6760 cero
+.
+"*/0_gz181_.lab"
+0 7399 cero
+.
+"*/0_gz187.lab"
+0 7934 cero
+.
+"*/0_gz200.lab"
+0 8170 cero
+.
+"*/0_gz200_.lab"
+0 7972 cero
+.
+"*/1_gz002.lab"
+0 7688 uno
+.
+"*/1_gz005.lab"
+0 6560 uno
+.
+"*/1_gz029.lab"
+0 7285 uno
+.
+"*/1_gz039.lab"
+0 9992 uno
+.
+"*/1_gz104.lab"
+0 6307 uno
+.
+"*/1_gz105.lab"
+0 6382 uno
+.
+"*/1_gz105_.lab"
+0 6153 uno
+.
+"*/1_gz105__.lab"
+0 7756 uno
+.
+"*/1_gz153.lab"
+0 4626 uno
+.
+"*/1_gz153_.lab"
+0 5292 uno
+.
+"*/1_gz163.lab"
+0 5233 uno
+.
+"*/1_gz173.lab"
+0 6551 uno
+.
+"*/1_gz173_.lab"
+0 6105 uno
+.
+"*/1_gz173__.lab"
+0 5971 uno
+.
+"*/1_gz200.lab"
+0 7185 uno
+.
+"*/2_gz039.lab"
+0 11205 dos
+.
+"*/2_gz088.lab"
+0 6420 dos
+.
+"*/2_gz088_.lab"
+0 8853 dos
+.
+"*/2_gz105.lab"
+0 6229 dos
+.
+"*/2_gz157.lab"
+0 5585 dos
+.
+"*/2_gz161.lab"
+0 6805 dos
+.
+"*/2_gz167.lab"
+0 6702 dos
+.
+"*/2_gz181.lab"
+0 5821 dos
+.
+"*/2_gz187.lab"
+0 6908 dos
+.
+"*/2_gz187_.lab"
+0 6322 dos
+.
+"*/2_gz188.lab"
+0 7528 dos
+.
+"*/2_gz199.lab"
+0 5887 dos
+.
+"*/2_gz200.lab"
+0 7087 dos
+.
+"*/3_gz002.lab"
+0 8301 tres
+.
+"*/3_gz005.lab"
+0 7766 tres
+.
+"*/3_gz029.lab"
+0 7475 tres
+.
+"*/3_gz029_.lab"
+0 6811 tres
+.
+"*/3_gz039.lab"
+0 8557 tres
+.
+"*/3_gz101.lab"
+0 7383 tres
+.
+"*/3_gz104.lab"
+0 5957 tres
+.
+"*/3_gz105.lab"
+0 8596 tres
+.
+"*/3_gz173.lab"
+0 5437 tres
+.
+"*/3_gz179.lab"
+0 5939 tres
+.
+"*/3_gz185.lab"
+0 7603 tres
+.
+"*/3_gz199.lab"
+0 6900 tres
+.
+"*/3_gz199_.lab"
+0 8317 tres
+.
+"*/3_gz200.lab"
+0 7480 tres
+.
+"*/3_gz200_.lab"
+0 6890 tres
+.
+"*/4_gz002.lab"
+0 8506 cuatro
+.
+"*/4_gz029.lab"
+0 8802 cuatro
+.
+"*/4_gz039.lab"
+0 10323 cuatro
+.
+"*/4_gz039_.lab"
+0 10543 cuatro
+.
+"*/4_gz101.lab"
+0 11033 cuatro
+.
+"*/4_gz153.lab"
+0 6878 cuatro
+.
+"*/4_gz153_.lab"
+0 6929 cuatro
+.
+"*/4_gz163.lab"
+0 7366 cuatro
+.
+"*/4_gz173.lab"
+0 6997 cuatro
+.
+"*/4_gz179.lab"
+0 8238 cuatro
+.
+"*/4_gz181.lab"
+0 6948 cuatro
+.
+"*/4_gz185.lab"
+0 6995 cuatro
+.
+"*/4_gz199.lab"
+0 9734 cuatro
+.
+"*/4_gz199_.lab"
+0 11151 cuatro
+.
+"*/4_gz199__.lab"
+0 9734 cuatro
+.
+"*/5_gz005.lab"
+0 10363 cinco
+.
+"*/5_gz029.lab"
+0 7190 cinco
+.
+"*/5_gz039.lab"
+0 10764 cinco
+.
+"*/5_gz039_.lab"
+0 11205 cinco
+.
+"*/5_gz039__.lab"
+0 11647 cinco
+.
+"*/5_gz088.lab"
+0 12649 cinco
+.
+"*/5_gz102.lab"
+0 7522 cinco
+.
+"*/5_gz104.lab"
+0 8806 cinco
+.
+"*/5_gz153.lab"
+0 8105 cinco
+.
+"*/5_gz163.lab"
+0 6950 cinco
+.
+"*/5_gz165.lab"
+0 8519 cinco
+.
+"*/5_gz173.lab"
+0 6863 cinco
+.
+"*/5_gz179.lab"
+0 8310 cinco
+.
+"*/5_gz179_.lab"
+0 8022 cinco
+.
+"*/5_gz185.lab"
+0 9682 cinco
+.
+"*/5_gz200.lab"
+0 11121 cinco
+.
+"*/6_gz002.lab"
+0 11675 seis
+.
+"*/6_gz002_.lab"
+0 9936 seis
+.
+"*/6_gz005.lab"
+0 9250 seis
+.
+"*/6_gz029.lab"
+0 10320 seis
+.
+"*/6_gz039.lab"
+0 8447 seis
+.
+"*/6_gz105.lab"
+0 7604 seis
+.
+"*/6_gz153.lab"
+0 7287 seis
+.
+"*/6_gz165.lab"
+0 9133 seis
+.
+"*/6_gz179.lab"
+0 7951 seis
+.
+"*/6_gz181.lab"
+0 10255 seis
+.
+"*/6_gz199.lab"
+0 10342 seis
+.
+"*/6_gz199_.lab"
+0 9228 seis
+.
+"*/6_gz200.lab"
+0 8858 seis
+.
+"*/6_gz200_.lab"
+0 9448 seis
+.
+"*/6_gz200__.lab"
+0 11220 seis
+.
+"*/7_gz002.lab"
+0 8198 siete
+.
+"*/7_gz002_.lab"
+0 10038 siete
+.
+"*/7_gz039.lab"
+0 10653 siete
+.
+"*/7_gz088.lab"
+0 12941 siete
+.
+"*/7_gz103.lab"
+0 9481 siete
+.
+"*/7_gz105.lab"
+0 9131 siete
+.
+"*/7_gz105_.lab"
+0 9818 siete
+.
+"*/7_gz105__.lab"
+0 9054 siete
+.
+"*/7_gz153.lab"
+0 7748 siete
+.
+"*/7_gz153_.lab"
+0 6161 siete
+.
+"*/7_gz163.lab"
+0 8095 siete
+.
+"*/7_gz179.lab"
+0 8130 siete
+.
+"*/7_gz185.lab"
+0 7379 siete
+.
+"*/7_gz200.lab"
+0 12006 siete
+.
+"*/8_gz002.lab"
+0 9834 ocho
+.
+"*/8_gz002_.lab"
+0 9936 ocho
+.
+"*/8_gz002__.lab"
+0 9630 ocho
+.
+"*/8_gz002___.lab"
+0 10243 ocho
+.
+"*/8_gz039.lab"
+0 9771 ocho
+.
+"*/8_gz088.lab"
+0 9923 ocho
+.
+"*/8_gz104.lab"
+0 6207 ocho
+.
+"*/8_gz153.lab"
+0 5752 ocho
+.
+"*/8_gz163.lab"
+0 7002 ocho
+.
+"*/8_gz173.lab"
+0 6818 ocho
+.
+"*/8_gz175.lab"
+0 6995 ocho
+.
+"*/8_gz175_.lab"
+0 5059 ocho
+.
+"*/8_gz181.lab"
+0 6611 ocho
+.
+"*/8_gz187.lab"
+0 8227 ocho
+.
+"*/8_gz187_.lab"
+0 8373 ocho
+.
+"*/8_gz199.lab"
+0 8823 ocho
+.
+"*/9_gz002.lab"
+0 9016 nueve
+.
+"*/9_gz002_.lab"
+0 9936 nueve
+.
+"*/9_gz005.lab"
+0 9343 nueve
+.
+"*/9_gz088.lab"
+0 9437 nueve
+.
+"*/9_gz088_.lab"
+0 8270 nueve
+.
+"*/9_gz088__.lab"
+0 8853 nueve
+.
+"*/9_gz102.lab"
+0 9059 nueve
+.
+"*/9_gz104.lab"
+0 7407 nueve
+.
+"*/9_gz105.lab"
+0 9130 nueve
+.
+"*/9_gz165.lab"
+0 6813 nueve
+.
+"*/9_gz175.lab"
+0 6479 nueve
+.
+"*/9_gz175_.lab"
+0 6866 nueve
+.
+"*/9_gz187.lab"
+0 8886 nueve
+.
+"*/9_gz187_.lab"
+0 6981 nueve
+.
+"*/9_gz199.lab"
+0 9835 nueve
+.
+"*/9_gz199_.lab"
+0 9329 nueve
+.
+#!MLF!#
+"*/0_gz005.lab"
+0 8973 cero
+.
+"*/0_gz039.lab"
+0 10102 cero
+.
+"*/0_gz039_.lab"
+0 9550 cero
+.
+"*/0_gz088.lab"
+0 10021 cero
+.
+"*/0_gz088_.lab"
+0 10119 cero
+.
+"*/0_gz157.lab"
+0 6011 cero
+.
+"*/0_gz163.lab"
+0 7419 cero
+.
+"*/0_gz175.lab"
+0 8737 cero
+.
+"*/0_gz175_.lab"
+0 8479 cero
+.
+"*/0_gz175__.lab"
+0 6607 cero
+.
+"*/0_gz181.lab"
+0 6760 cero
+.
+"*/0_gz181_.lab"
+0 7399 cero
+.
+"*/0_gz187.lab"
+0 7934 cero
+.
+"*/0_gz200.lab"
+0 8170 cero
+.
+"*/0_gz200_.lab"
+0 7972 cero
+.
+"*/1_gz002.lab"
+0 7688 uno
+.
+"*/1_gz005.lab"
+0 6560 uno
+.
+"*/1_gz029.lab"
+0 7285 uno
+.
+"*/1_gz039.lab"
+0 9992 uno
+.
+"*/1_gz104.lab"
+0 6307 uno
+.
+"*/1_gz105.lab"
+0 6382 uno
+.
+"*/1_gz105_.lab"
+0 6153 uno
+.
+"*/1_gz105__.lab"
+0 7756 uno
+.
+"*/1_gz153.lab"
+0 4626 uno
+.
+"*/1_gz153_.lab"
+0 5292 uno
+.
+"*/1_gz163.lab"
+0 5233 uno
+.
+"*/1_gz173.lab"
+0 6551 uno
+.
+"*/1_gz173_.lab"
+0 6105 uno
+.
+"*/1_gz173__.lab"
+0 5971 uno
+.
+"*/1_gz200.lab"
+0 7185 uno
+.
+"*/2_gz039.lab"
+0 11205 dos
+.
+"*/2_gz088.lab"
+0 6420 dos
+.
+"*/2_gz088_.lab"
+0 8853 dos
+.
+"*/2_gz105.lab"
+0 6229 dos
+.
+"*/2_gz157.lab"
+0 5585 dos
+.
+"*/2_gz161.lab"
+0 6805 dos
+.
+"*/2_gz167.lab"
+0 6702 dos
+.
+"*/2_gz181.lab"
+0 5821 dos
+.
+"*/2_gz187.lab"
+0 6908 dos
+.
+"*/2_gz187_.lab"
+0 6322 dos
+.
+"*/2_gz188.lab"
+0 7528 dos
+.
+"*/2_gz199.lab"
+0 5887 dos
+.
+"*/2_gz200.lab"
+0 7087 dos
+.
+"*/3_gz002.lab"
+0 8301 tres
+.
+"*/3_gz005.lab"
+0 7766 tres
+.
+"*/3_gz029.lab"
+0 7475 tres
+.
+"*/3_gz029_.lab"
+0 6811 tres
+.
+"*/3_gz039.lab"
+0 8557 tres
+.
+"*/3_gz101.lab"
+0 7383 tres
+.
+"*/3_gz104.lab"
+0 5957 tres
+.
+"*/3_gz105.lab"
+0 8596 tres
+.
+"*/3_gz173.lab"
+0 5437 tres
+.
+"*/3_gz179.lab"
+0 5939 tres
+.
+"*/3_gz185.lab"
+0 7603 tres
+.
+"*/3_gz199.lab"
+0 6900 tres
+.
+"*/3_gz199_.lab"
+0 8317 tres
+.
+"*/3_gz200.lab"
+0 7480 tres
+.
+"*/3_gz200_.lab"
+0 6890 tres
+.
+"*/4_gz002.lab"
+0 8506 cuatro
+.
+"*/4_gz029.lab"
+0 8802 cuatro
+.
+"*/4_gz039.lab"
+0 10323 cuatro
+.
+"*/4_gz039_.lab"
+0 10543 cuatro
+.
+"*/4_gz101.lab"
+0 11033 cuatro
+.
+"*/4_gz153.lab"
+0 6878 cuatro
+.
+"*/4_gz153_.lab"
+0 6929 cuatro
+.
+"*/4_gz163.lab"
+0 7366 cuatro
+.
+"*/4_gz173.lab"
+0 6997 cuatro
+.
+"*/4_gz179.lab"
+0 8238 cuatro
+.
+"*/4_gz181.lab"
+0 6948 cuatro
+.
+"*/4_gz185.lab"
+0 6995 cuatro
+.
+"*/4_gz199.lab"
+0 9734 cuatro
+.
+"*/4_gz199_.lab"
+0 11151 cuatro
+.
+"*/4_gz199__.lab"
+0 9734 cuatro
+.
+"*/5_gz005.lab"
+0 10363 cinco
+.
+"*/5_gz029.lab"
+0 7190 cinco
+.
+"*/5_gz039.lab"
+0 10764 cinco
+.
+"*/5_gz039_.lab"
+0 11205 cinco
+.
+"*/5_gz039__.lab"
+0 11647 cinco
+.
+"*/5_gz088.lab"
+0 12649 cinco
+.
+"*/5_gz102.lab"
+0 7522 cinco
+.
+"*/5_gz104.lab"
+0 8806 cinco
+.
+"*/5_gz153.lab"
+0 8105 cinco
+.
+"*/5_gz163.lab"
+0 6950 cinco
+.
+"*/5_gz165.lab"
+0 8519 cinco
+.
+"*/5_gz173.lab"
+0 6863 cinco
+.
+"*/5_gz179.lab"
+0 8310 cinco
+.
+"*/5_gz179_.lab"
+0 8022 cinco
+.
+"*/5_gz185.lab"
+0 9682 cinco
+.
+"*/5_gz200.lab"
+0 11121 cinco
+.
+"*/6_gz002.lab"
+0 11675 seis
+.
+"*/6_gz002_.lab"
+0 9936 seis
+.
+"*/6_gz005.lab"
+0 9250 seis
+.
+"*/6_gz029.lab"
+0 10320 seis
+.
+"*/6_gz039.lab"
+0 8447 seis
+.
+"*/6_gz105.lab"
+0 7604 seis
+.
+"*/6_gz153.lab"
+0 7287 seis
+.
+"*/6_gz165.lab"
+0 9133 seis
+.
+"*/6_gz179.lab"
+0 7951 seis
+.
+"*/6_gz181.lab"
+0 10255 seis
+.
+"*/6_gz199.lab"
+0 10342 seis
+.
+"*/6_gz199_.lab"
+0 9228 seis
+.
+"*/6_gz200.lab"
+0 8858 seis
+.
+"*/6_gz200_.lab"
+0 9448 seis
+.
+"*/6_gz200__.lab"
+0 11220 seis
+.
+"*/7_gz002.lab"
+0 8198 siete
+.
+"*/7_gz002_.lab"
+0 10038 siete
+.
+"*/7_gz039.lab"
+0 10653 siete
+.
+"*/7_gz088.lab"
+0 12941 siete
+.
+"*/7_gz103.lab"
+0 9481 siete
+.
+"*/7_gz105.lab"
+0 9131 siete
+.
+"*/7_gz105_.lab"
+0 9818 siete
+.
+"*/7_gz105__.lab"
+0 9054 siete
+.
+"*/7_gz153.lab"
+0 7748 siete
+.
+"*/7_gz153_.lab"
+0 6161 siete
+.
+"*/7_gz163.lab"
+0 8095 siete
+.
+"*/7_gz179.lab"
+0 8130 siete
+.
+"*/7_gz185.lab"
+0 7379 siete
+.
+"*/7_gz200.lab"
+0 12006 siete
+.
+"*/8_gz002.lab"
+0 9834 ocho
+.
+"*/8_gz002_.lab"
+0 9936 ocho
+.
+"*/8_gz002__.lab"
+0 9630 ocho
+.
+"*/8_gz002___.lab"
+0 10243 ocho
+.
+"*/8_gz039.lab"
+0 9771 ocho
+.
+"*/8_gz088.lab"
+0 9923 ocho
+.
+"*/8_gz104.lab"
+0 6207 ocho
+.
+"*/8_gz153.lab"
+0 5752 ocho
+.
+"*/8_gz163.lab"
+0 7002 ocho
+.
+"*/8_gz173.lab"
+0 6818 ocho
+.
+"*/8_gz175.lab"
+0 6995 ocho
+.
+"*/8_gz175_.lab"
+0 5059 ocho
+.
+"*/8_gz181.lab"
+0 6611 ocho
+.
+"*/8_gz187.lab"
+0 8227 ocho
+.
+"*/8_gz187_.lab"
+0 8373 ocho
+.
+"*/8_gz199.lab"
+0 8823 ocho
+.
+"*/9_gz002.lab"
+0 9016 nueve
+.
+"*/9_gz002_.lab"
+0 9936 nueve
+.
+"*/9_gz005.lab"
+0 9343 nueve
+.
+"*/9_gz088.lab"
+0 9437 nueve
+.
+"*/9_gz088_.lab"
+0 8270 nueve
+.
+"*/9_gz088__.lab"
+0 8853 nueve
+.
+"*/9_gz102.lab"
+0 9059 nueve
+.
+"*/9_gz104.lab"
+0 7407 nueve
+.
+"*/9_gz105.lab"
+0 9130 nueve
+.
+"*/9_gz165.lab"
+0 6813 nueve
+.
+"*/9_gz175.lab"
+0 6479 nueve
+.
+"*/9_gz175_.lab"
+0 6866 nueve
+.
+"*/9_gz187.lab"
+0 8886 nueve
+.
+"*/9_gz187_.lab"
+0 6981 nueve
+.
+"*/9_gz199.lab"
+0 9835 nueve
+.
+"*/9_gz199_.lab"
+0 9329 nueve
+.
+#!MLF!#
+"*/0_gz005.lab"
+0 8973 cero
+.
+"*/0_gz039.lab"
+0 10102 cero
+.
+"*/0_gz039_.lab"
+0 9550 cero
+.
+"*/0_gz088.lab"
+0 10021 cero
+.
+"*/0_gz088_.lab"
+0 10119 cero
+.
+"*/0_gz157.lab"
+0 6011 cero
+.
+"*/0_gz163.lab"
+0 7419 cero
+.
+"*/0_gz175.lab"
+0 8737 cero
+.
+"*/0_gz175_.lab"
+0 8479 cero
+.
+"*/0_gz175__.lab"
+0 6607 cero
+.
+"*/0_gz181.lab"
+0 6760 cero
+.
+"*/0_gz181_.lab"
+0 7399 cero
+.
+"*/0_gz187.lab"
+0 7934 cero
+.
+"*/0_gz200.lab"
+0 8170 cero
+.
+"*/0_gz200_.lab"
+0 7972 cero
+.
+"*/1_gz002.lab"
+0 7688 uno
+.
+"*/1_gz005.lab"
+0 6560 uno
+.
+"*/1_gz029.lab"
+0 7285 uno
+.
+"*/1_gz039.lab"
+0 9992 uno
+.
+"*/1_gz104.lab"
+0 6307 uno
+.
+"*/1_gz105.lab"
+0 6382 uno
+.
+"*/1_gz105_.lab"
+0 6153 uno
+.
+"*/1_gz105__.lab"
+0 7756 uno
+.
+"*/1_gz153.lab"
+0 4626 uno
+.
+"*/1_gz153_.lab"
+0 5292 uno
+.
+"*/1_gz163.lab"
+0 5233 uno
+.
+"*/1_gz173.lab"
+0 6551 uno
+.
+"*/1_gz173_.lab"
+0 6105 uno
+.
+"*/1_gz173__.lab"
+0 5971 uno
+.
+"*/1_gz200.lab"
+0 7185 uno
+.
+"*/2_gz039.lab"
+0 11205 dos
+.
+"*/2_gz088.lab"
+0 6420 dos
+.
+"*/2_gz088_.lab"
+0 8853 dos
+.
+"*/2_gz088__.lab"
+0 8853 dos
+.
+"*/2_gz105.lab"
+0 6229 dos
+.
+"*/2_gz157.lab"
+0 5585 dos
+.
+"*/2_gz161.lab"
+0 6805 dos
+.
+"*/2_gz167.lab"
+0 6702 dos
+.
+"*/2_gz181.lab"
+0 5821 dos
+.
+"*/2_gz187.lab"
+0 6908 dos
+.
+"*/2_gz187_.lab"
+0 6322 dos
+.
+"*/2_gz188.lab"
+0 7528 dos
+.
+"*/2_gz199.lab"
+0 5887 dos
+.
+"*/2_gz200.lab"
+0 7087 dos
+.
+"*/3_gz002.lab"
+0 8301 tres
+.
+"*/3_gz005.lab"
+0 7766 tres
+.
+"*/3_gz029.lab"
+0 7475 tres
+.
+"*/3_gz029_.lab"
+0 6811 tres
+.
+"*/3_gz039.lab"
+0 8557 tres
+.
+"*/3_gz101.lab"
+0 7383 tres
+.
+"*/3_gz104.lab"
+0 5957 tres
+.
+"*/3_gz105.lab"
+0 8596 tres
+.
+"*/3_gz173.lab"
+0 5437 tres
+.
+"*/3_gz179.lab"
+0 5939 tres
+.
+"*/3_gz185.lab"
+0 7603 tres
+.
+"*/3_gz199.lab"
+0 6900 tres
+.
+"*/3_gz199_.lab"
+0 8317 tres
+.
+"*/3_gz200.lab"
+0 7480 tres
+.
+"*/3_gz200_.lab"
+0 6890 tres
+.
+"*/4_gz002.lab"
+0 8506 cuatro
+.
+"*/4_gz029.lab"
+0 8802 cuatro
+.
+"*/4_gz039.lab"
+0 10323 cuatro
+.
+"*/4_gz039_.lab"
+0 10543 cuatro
+.
+"*/4_gz101.lab"
+0 11033 cuatro
+.
+"*/4_gz153.lab"
+0 6878 cuatro
+.
+"*/4_gz153_.lab"
+0 6929 cuatro
+.
+"*/4_gz163.lab"
+0 7366 cuatro
+.
+"*/4_gz173.lab"
+0 6997 cuatro
+.
+"*/4_gz179.lab"
+0 8238 cuatro
+.
+"*/4_gz181.lab"
+0 6948 cuatro
+.
+"*/4_gz185.lab"
+0 6995 cuatro
+.
+"*/4_gz199.lab"
+0 9734 cuatro
+.
+"*/4_gz199_.lab"
+0 11151 cuatro
+.
+"*/4_gz199__.lab"
+0 9734 cuatro
+.
+"*/5_gz005.lab"
+0 10363 cinco
+.
+"*/5_gz029.lab"
+0 7190 cinco
+.
+"*/5_gz039.lab"
+0 10764 cinco
+.
+"*/5_gz039_.lab"
+0 11205 cinco
+.
+"*/5_gz039__.lab"
+0 11647 cinco
+.
+"*/5_gz088.lab"
+0 12649 cinco
+.
+"*/5_gz102.lab"
+0 7522 cinco
+.
+"*/5_gz104.lab"
+0 8806 cinco
+.
+"*/5_gz153.lab"
+0 8105 cinco
+.
+"*/5_gz163.lab"
+0 6950 cinco
+.
+"*/5_gz165.lab"
+0 8519 cinco
+.
+"*/5_gz173.lab"
+0 6863 cinco
+.
+"*/5_gz179.lab"
+0 8310 cinco
+.
+"*/5_gz179_.lab"
+0 8022 cinco
+.
+"*/5_gz185.lab"
+0 9682 cinco
+.
+"*/5_gz200.lab"
+0 11121 cinco
+.
+"*/6_gz002.lab"
+0 11675 seis
+.
+"*/6_gz002_.lab"
+0 9936 seis
+.
+"*/6_gz005.lab"
+0 9250 seis
+.
+"*/6_gz029.lab"
+0 10320 seis
+.
+"*/6_gz039.lab"
+0 8447 seis
+.
+"*/6_gz105.lab"
+0 7604 seis
+.
+"*/6_gz153.lab"
+0 7287 seis
+.
+"*/6_gz165.lab"
+0 9133 seis
+.
+"*/6_gz179.lab"
+0 7951 seis
+.
+"*/6_gz181.lab"
+0 10255 seis
+.
+"*/6_gz199.lab"
+0 10342 seis
+.
+"*/6_gz199_.lab"
+0 9228 seis
+.
+"*/6_gz200.lab"
+0 8858 seis
+.
+"*/6_gz200_.lab"
+0 9448 seis
+.
+"*/6_gz200__.lab"
+0 11220 seis
+.
+"*/7_gz002.lab"
+0 8198 siete
+.
+"*/7_gz002_.lab"
+0 10038 siete
+.
+"*/7_gz039.lab"
+0 10653 siete
+.
+"*/7_gz088.lab"
+0 12941 siete
+.
+"*/7_gz103.lab"
+0 9481 siete
+.
+"*/7_gz105.lab"
+0 9131 siete
+.
+"*/7_gz105_.lab"
+0 9818 siete
+.
+"*/7_gz105__.lab"
+0 9054 siete
+.
+"*/7_gz153.lab"
+0 7748 siete
+.
+"*/7_gz153_.lab"
+0 6161 siete
+.
+"*/7_gz163.lab"
+0 8095 siete
+.
+"*/7_gz179.lab"
+0 8130 siete
+.
+"*/7_gz185.lab"
+0 7379 siete
+.
+"*/7_gz200.lab"
+0 12006 siete
+.
+"*/8_gz002.lab"
+0 9834 ocho
+.
+"*/8_gz002_.lab"
+0 9936 ocho
+.
+"*/8_gz002__.lab"
+0 9630 ocho
+.
+"*/8_gz002___.lab"
+0 10243 ocho
+.
+"*/8_gz039.lab"
+0 9771 ocho
+.
+"*/8_gz088.lab"
+0 9923 ocho
+.
+"*/8_gz104.lab"
+0 6207 ocho
+.
+"*/8_gz153.lab"
+0 5752 ocho
+.
+"*/8_gz163.lab"
+0 7002 ocho
+.
+"*/8_gz173.lab"
+0 6818 ocho
+.
+"*/8_gz175.lab"
+0 6995 ocho
+.
+"*/8_gz175_.lab"
+0 5059 ocho
+.
+"*/8_gz181.lab"
+0 6611 ocho
+.
+"*/8_gz187.lab"
+0 8227 ocho
+.
+"*/8_gz187_.lab"
+0 8373 ocho
+.
+"*/8_gz199.lab"
+0 8823 ocho
+.
+"*/9_gz002.lab"
+0 9016 nueve
+.
+"*/9_gz002_.lab"
+0 9936 nueve
+.
+"*/9_gz005.lab"
+0 9343 nueve
+.
+"*/9_gz088.lab"
+0 9437 nueve
+.
+"*/9_gz088_.lab"
+0 8270 nueve
+.
+"*/9_gz102.lab"
+0 9059 nueve
+.
+"*/9_gz104.lab"
+0 7407 nueve
+.
+"*/9_gz105.lab"
+0 9130 nueve
+.
+"*/9_gz165.lab"
+0 6813 nueve
+.
+"*/9_gz175.lab"
+0 6479 nueve
+.
+"*/9_gz175_.lab"
+0 6866 nueve
+.
+"*/9_gz187.lab"
+0 8886 nueve
+.
+"*/9_gz187_.lab"
+0 6981 nueve
+.
+"*/9_gz199.lab"
+0 9835 nueve
+.
+"*/9_gz199_.lab"
+0 9329 nueve
+.
+#!MLF!#
+"*/0_gz005.lab"
+0 8973 cero
+.
+"*/0_gz039.lab"
+0 10102 cero
+.
+"*/0_gz039_.lab"
+0 9550 cero
+.
+"*/0_gz088.lab"
+0 10021 cero
+.
+"*/0_gz088_.lab"
+0 10119 cero
+.
+"*/0_gz157.lab"
+0 6011 cero
+.
+"*/0_gz163.lab"
+0 7419 cero
+.
+"*/0_gz175.lab"
+0 8737 cero
+.
+"*/0_gz175_.lab"
+0 8479 cero
+.
+"*/0_gz175__.lab"
+0 6607 cero
+.
+"*/0_gz181.lab"
+0 6760 cero
+.
+"*/0_gz181_.lab"
+0 7399 cero
+.
+"*/0_gz187.lab"
+0 7934 cero
+.
+"*/0_gz200.lab"
+0 8170 cero
+.
+"*/0_gz200_.lab"
+0 7972 cero
+.
+"*/1_gz002.lab"
+0 7688 uno
+.
+"*/1_gz005.lab"
+0 6560 uno
+.
+"*/1_gz029.lab"
+0 7285 uno
+.
+"*/1_gz039.lab"
+0 9992 uno
+.
+"*/1_gz104.lab"
+0 6307 uno
+.
+"*/1_gz105.lab"
+0 6382 uno
+.
+"*/1_gz105_.lab"
+0 6153 uno
+.
+"*/1_gz105__.lab"
+0 7756 uno
+.
+"*/1_gz153.lab"
+0 4626 uno
+.
+"*/1_gz153_.lab"
+0 5292 uno
+.
+"*/1_gz163.lab"
+0 5233 uno
+.
+"*/1_gz173.lab"
+0 6551 uno
+.
+"*/1_gz173_.lab"
+0 6105 uno
+.
+"*/1_gz173__.lab"
+0 5971 uno
+.
+"*/1_gz200.lab"
+0 7185 uno
+.
+"*/2_gz039.lab"
+0 11205 dos
+.
+"*/2_gz088.lab"
+0 6420 dos
+.
+"*/2_gz088_.lab"
+0 8853 dos
+.
+"*/2_gz088__.lab"
+0 8853 dos
+.
+"*/2_gz105.lab"
+0 6229 dos
+.
+"*/2_gz157.lab"
+0 5585 dos
+.
+"*/2_gz161.lab"
+0 6805 dos
+.
+"*/2_gz167.lab"
+0 6702 dos
+.
+"*/2_gz181.lab"
+0 5821 dos
+.
+"*/2_gz187.lab"
+0 6908 dos
+.
+"*/2_gz187_.lab"
+0 6322 dos
+.
+"*/2_gz188.lab"
+0 7528 dos
+.
+"*/2_gz199.lab"
+0 5887 dos
+.
+"*/2_gz200.lab"
+0 7087 dos
+.
+"*/3_gz002.lab"
+0 8301 tres
+.
+"*/3_gz005.lab"
+0 7766 tres
+.
+"*/3_gz029.lab"
+0 7475 tres
+.
+"*/3_gz029_.lab"
+0 6811 tres
+.
+"*/3_gz039.lab"
+0 8557 tres
+.
+"*/3_gz101.lab"
+0 7383 tres
+.
+"*/3_gz104.lab"
+0 5957 tres
+.
+"*/3_gz105.lab"
+0 8596 tres
+.
+"*/3_gz173.lab"
+0 5437 tres
+.
+"*/3_gz179.lab"
+0 5939 tres
+.
+"*/3_gz185.lab"
+0 7603 tres
+.
+"*/3_gz199.lab"
+0 6900 tres
+.
+"*/3_gz199_.lab"
+0 8317 tres
+.
+"*/3_gz200.lab"
+0 7480 tres
+.
+"*/3_gz200_.lab"
+0 6890 tres
+.
+"*/4_gz002.lab"
+0 8506 cuatro
+.
+"*/4_gz029.lab"
+0 8802 cuatro
+.
+"*/4_gz039.lab"
+0 10323 cuatro
+.
+"*/4_gz039_.lab"
+0 10543 cuatro
+.
+"*/4_gz101.lab"
+0 11033 cuatro
+.
+"*/4_gz153.lab"
+0 6878 cuatro
+.
+"*/4_gz153_.lab"
+0 6929 cuatro
+.
+"*/4_gz163.lab"
+0 7366 cuatro
+.
+"*/4_gz173.lab"
+0 6997 cuatro
+.
+"*/4_gz179.lab"
+0 8238 cuatro
+.
+"*/4_gz181.lab"
+0 6948 cuatro
+.
+"*/4_gz185.lab"
+0 6995 cuatro
+.
+"*/4_gz199.lab"
+0 9734 cuatro
+.
+"*/4_gz199_.lab"
+0 11151 cuatro
+.
+"*/4_gz199__.lab"
+0 9734 cuatro
+.
+"*/5_gz005.lab"
+0 10363 cinco
+.
+"*/5_gz029.lab"
+0 7190 cinco
+.
+"*/5_gz039.lab"
+0 10764 cinco
+.
+"*/5_gz039_.lab"
+0 11205 cinco
+.
+"*/5_gz039__.lab"
+0 11647 cinco
+.
+"*/5_gz088.lab"
+0 12649 cinco
+.
+"*/5_gz102.lab"
+0 7522 cinco
+.
+"*/5_gz104.lab"
+0 8806 cinco
+.
+"*/5_gz153.lab"
+0 8105 cinco
+.
+"*/5_gz163.lab"
+0 6950 cinco
+.
+"*/5_gz165.lab"
+0 8519 cinco
+.
+"*/5_gz173.lab"
+0 6863 cinco
+.
+"*/5_gz179.lab"
+0 8310 cinco
+.
+"*/5_gz179_.lab"
+0 8022 cinco
+.
+"*/5_gz185.lab"
+0 9682 cinco
+.
+"*/5_gz200.lab"
+0 11121 cinco
+.
+"*/6_gz002.lab"
+0 11675 seis
+.
+"*/6_gz002_.lab"
+0 9936 seis
+.
+"*/6_gz005.lab"
+0 9250 seis
+.
+"*/6_gz029.lab"
+0 10320 seis
+.
+"*/6_gz039.lab"
+0 8447 seis
+.
+"*/6_gz105.lab"
+0 7604 seis
+.
+"*/6_gz153.lab"
+0 7287 seis
+.
+"*/6_gz165.lab"
+0 9133 seis
+.
+"*/6_gz179.lab"
+0 7951 seis
+.
+"*/6_gz181.lab"
+0 10255 seis
+.
+"*/6_gz199.lab"
+0 10342 seis
+.
+"*/6_gz199_.lab"
+0 9228 seis
+.
+"*/6_gz200.lab"
+0 8858 seis
+.
+"*/6_gz200_.lab"
+0 9448 seis
+.
+"*/6_gz200__.lab"
+0 11220 seis
+.
+"*/7_gz002.lab"
+0 8198 siete
+.
+"*/7_gz002_.lab"
+0 10038 siete
+.
+"*/7_gz039.lab"
+0 10653 siete
+.
+"*/7_gz088.lab"
+0 12941 siete
+.
+"*/7_gz103.lab"
+0 9481 siete
+.
+"*/7_gz105.lab"
+0 9131 siete
+.
+"*/7_gz105_.lab"
+0 9818 siete
+.
+"*/7_gz105__.lab"
+0 9054 siete
+.
+"*/7_gz153.lab"
+0 7748 siete
+.
+"*/7_gz153_.lab"
+0 6161 siete
+.
+"*/7_gz163.lab"
+0 8095 siete
+.
+"*/7_gz179.lab"
+0 8130 siete
+.
+"*/7_gz185.lab"
+0 7379 siete
+.
+"*/7_gz200.lab"
+0 12006 siete
+.
+"*/8_gz002.lab"
+0 9834 ocho
+.
+"*/8_gz002_.lab"
+0 9936 ocho
+.
+"*/8_gz002__.lab"
+0 9630 ocho
+.
+"*/8_gz039.lab"
+0 9771 ocho
+.
+"*/8_gz088.lab"
+0 9923 ocho
+.
+"*/8_gz104.lab"
+0 6207 ocho
+.
+"*/8_gz153.lab"
+0 5752 ocho
+.
+"*/8_gz163.lab"
+0 7002 ocho
+.
+"*/8_gz173.lab"
+0 6818 ocho
+.
+"*/8_gz175.lab"
+0 6995 ocho
+.
+"*/8_gz175_.lab"
+0 5059 ocho
+.
+"*/8_gz181.lab"
+0 6611 ocho
+.
+"*/8_gz187.lab"
+0 8227 ocho
+.
+"*/8_gz187_.lab"
+0 8373 ocho
+.
+"*/8_gz199.lab"
+0 8823 ocho
+.
+"*/9_gz002.lab"
+0 9016 nueve
+.
+"*/9_gz002_.lab"
+0 9936 nueve
+.
+"*/9_gz002___.lab"
+0 10243 nueve
+.
+"*/9_gz005.lab"
+0 9343 nueve
+.
+"*/9_gz088.lab"
+0 9437 nueve
+.
+"*/9_gz088_.lab"
+0 8270 nueve
+.
+"*/9_gz102.lab"
+0 9059 nueve
+.
+"*/9_gz104.lab"
+0 7407 nueve
+.
+"*/9_gz105.lab"
+0 9130 nueve
+.
+"*/9_gz165.lab"
+0 6813 nueve
+.
+"*/9_gz175.lab"
+0 6479 nueve
+.
+"*/9_gz175_.lab"
+0 6866 nueve
+.
+"*/9_gz187.lab"
+0 8886 nueve
+.
+"*/9_gz187_.lab"
+0 6981 nueve
+.
+"*/9_gz199.lab"
+0 9835 nueve
+.
+"*/9_gz199_.lab"
+0 9329 nueve
+.
+#!MLF!#
+"*/0_gz005.lab"
+0 8973 cero
+.
+"*/0_gz039.lab"
+0 10102 cero
+.
+"*/0_gz088.lab"
+0 10021 cero
+.
+"*/0_gz088_.lab"
+0 10119 cero
+.
+"*/0_gz157.lab"
+0 6011 cero
+.
+"*/0_gz163.lab"
+0 7419 cero
+.
+"*/0_gz175.lab"
+0 8737 cero
+.
+"*/0_gz175_.lab"
+0 8479 cero
+.
+"*/0_gz175__.lab"
+0 6607 cero
+.
+"*/0_gz181.lab"
+0 6760 cero
+.
+"*/0_gz181_.lab"
+0 7399 cero
+.
+"*/0_gz187.lab"
+0 7934 cero
+.
+"*/0_gz200.lab"
+0 8170 cero
+.
+"*/0_gz200_.lab"
+0 7972 cero
+.
+"*/1_gz002.lab"
+0 7688 uno
+.
+"*/1_gz005.lab"
+0 6560 uno
+.
+"*/1_gz029.lab"
+0 7285 uno
+.
+"*/1_gz039.lab"
+0 9992 uno
+.
+"*/1_gz104.lab"
+0 6307 uno
+.
+"*/1_gz105.lab"
+0 6382 uno
+.
+"*/1_gz105_.lab"
+0 6153 uno
+.
+"*/1_gz105__.lab"
+0 7756 uno
+.
+"*/1_gz153.lab"
+0 4626 uno
+.
+"*/1_gz153_.lab"
+0 5292 uno
+.
+"*/1_gz163.lab"
+0 5233 uno
+.
+"*/1_gz173.lab"
+0 6551 uno
+.
+"*/1_gz173_.lab"
+0 6105 uno
+.
+"*/1_gz173__.lab"
+0 5971 uno
+.
+"*/1_gz200.lab"
+0 7185 uno
+.
+"*/2_gz039.lab"
+0 11205 dos
+.
+"*/2_gz088.lab"
+0 6420 dos
+.
+"*/2_gz088_.lab"
+0 8853 dos
+.
+"*/2_gz088__.lab"
+0 8853 dos
+.
+"*/2_gz105.lab"
+0 6229 dos
+.
+"*/2_gz157.lab"
+0 5585 dos
+.
+"*/2_gz161.lab"
+0 6805 dos
+.
+"*/2_gz167.lab"
+0 6702 dos
+.
+"*/2_gz181.lab"
+0 5821 dos
+.
+"*/2_gz187.lab"
+0 6908 dos
+.
+"*/2_gz187_.lab"
+0 6322 dos
+.
+"*/2_gz188.lab"
+0 7528 dos
+.
+"*/2_gz199.lab"
+0 5887 dos
+.
+"*/2_gz200.lab"
+0 7087 dos
+.
+"*/3_gz002.lab"
+0 8301 tres
+.
+"*/3_gz005.lab"
+0 7766 tres
+.
+"*/3_gz029.lab"
+0 7475 tres
+.
+"*/3_gz029_.lab"
+0 6811 tres
+.
+"*/3_gz039.lab"
+0 8557 tres
+.
+"*/3_gz101.lab"
+0 7383 tres
+.
+"*/3_gz104.lab"
+0 5957 tres
+.
+"*/3_gz105.lab"
+0 8596 tres
+.
+"*/3_gz173.lab"
+0 5437 tres
+.
+"*/3_gz179.lab"
+0 5939 tres
+.
+"*/3_gz185.lab"
+0 7603 tres
+.
+"*/3_gz199.lab"
+0 6900 tres
+.
+"*/3_gz199_.lab"
+0 8317 tres
+.
+"*/3_gz200.lab"
+0 7480 tres
+.
+"*/3_gz200_.lab"
+0 6890 tres
+.
+"*/4_gz002.lab"
+0 8506 cuatro
+.
+"*/4_gz029.lab"
+0 8802 cuatro
+.
+"*/4_gz039.lab"
+0 10323 cuatro
+.
+"*/4_gz039_.lab"
+0 10543 cuatro
+.
+"*/4_gz101.lab"
+0 11033 cuatro
+.
+"*/4_gz153.lab"
+0 6878 cuatro
+.
+"*/4_gz153_.lab"
+0 6929 cuatro
+.
+"*/4_gz163.lab"
+0 7366 cuatro
+.
+"*/4_gz173.lab"
+0 6997 cuatro
+.
+"*/4_gz179.lab"
+0 8238 cuatro
+.
+"*/4_gz181.lab"
+0 6948 cuatro
+.
+"*/4_gz185.lab"
+0 6995 cuatro
+.
+"*/4_gz199.lab"
+0 9734 cuatro
+.
+"*/4_gz199_.lab"
+0 11151 cuatro
+.
+"*/4_gz199__.lab"
+0 9734 cuatro
+.
+"*/5_gz005.lab"
+0 10363 cinco
+.
+"*/5_gz029.lab"
+0 7190 cinco
+.
+"*/5_gz039.lab"
+0 10764 cinco
+.
+"*/5_gz039_.lab"
+0 11205 cinco
+.
+"*/5_gz039__.lab"
+0 11647 cinco
+.
+"*/5_gz088.lab"
+0 12649 cinco
+.
+"*/5_gz102.lab"
+0 7522 cinco
+.
+"*/5_gz104.lab"
+0 8806 cinco
+.
+"*/5_gz153.lab"
+0 8105 cinco
+.
+"*/5_gz163.lab"
+0 6950 cinco
+.
+"*/5_gz165.lab"
+0 8519 cinco
+.
+"*/5_gz173.lab"
+0 6863 cinco
+.
+"*/5_gz179.lab"
+0 8310 cinco
+.
+"*/5_gz179_.lab"
+0 8022 cinco
+.
+"*/5_gz185.lab"
+0 9682 cinco
+.
+"*/5_gz200.lab"
+0 11121 cinco
+.
+"*/6_gz002.lab"
+0 11675 seis
+.
+"*/6_gz002_.lab"
+0 9936 seis
+.
+"*/6_gz005.lab"
+0 9250 seis
+.
+"*/6_gz029.lab"
+0 10320 seis
+.
+"*/6_gz039.lab"
+0 8447 seis
+.
+"*/6_gz105.lab"
+0 7604 seis
+.
+"*/6_gz153.lab"
+0 7287 seis
+.
+"*/6_gz165.lab"
+0 9133 seis
+.
+"*/6_gz179.lab"
+0 7951 seis
+.
+"*/6_gz181.lab"
+0 10255 seis
+.
+"*/6_gz199.lab"
+0 10342 seis
+.
+"*/6_gz199_.lab"
+0 9228 seis
+.
+"*/6_gz200.lab"
+0 8858 seis
+.
+"*/6_gz200_.lab"
+0 9448 seis
+.
+"*/6_gz200__.lab"
+0 11220 seis
+.
+"*/7_gz002.lab"
+0 8198 siete
+.
+"*/7_gz002_.lab"
+0 10038 siete
+.
+"*/7_gz039.lab"
+0 10653 siete
+.
+"*/7_gz088.lab"
+0 12941 siete
+.
+"*/7_gz103.lab"
+0 9481 siete
+.
+"*/7_gz105.lab"
+0 9131 siete
+.
+"*/7_gz105_.lab"
+0 9818 siete
+.
+"*/7_gz105__.lab"
+0 9054 siete
+.
+"*/7_gz153.lab"
+0 7748 siete
+.
+"*/7_gz153_.lab"
+0 6161 siete
+.
+"*/7_gz163.lab"
+0 8095 siete
+.
+"*/7_gz179.lab"
+0 8130 siete
+.
+"*/7_gz185.lab"
+0 7379 siete
+.
+"*/7_gz200.lab"
+0 12006 siete
+.
+"*/8_gz002.lab"
+0 9834 ocho
+.
+"*/8_gz002_.lab"
+0 9936 ocho
+.
+"*/8_gz002__.lab"
+0 9630 ocho
+.
+"*/8_gz039.lab"
+0 9771 ocho
+.
+"*/8_gz088.lab"
+0 9923 ocho
+.
+"*/8_gz104.lab"
+0 6207 ocho
+.
+"*/8_gz153.lab"
+0 5752 ocho
+.
+"*/8_gz163.lab"
+0 7002 ocho
+.
+"*/8_gz173.lab"
+0 6818 ocho
+.
+"*/8_gz175.lab"
+0 6995 ocho
+.
+"*/8_gz175_.lab"
+0 5059 ocho
+.
+"*/8_gz181.lab"
+0 6611 ocho
+.
+"*/8_gz187.lab"
+0 8227 ocho
+.
+"*/8_gz187_.lab"
+0 8373 ocho
+.
+"*/8_gz199.lab"
+0 8823 ocho
+.
+"*/9_gz002.lab"
+0 9016 nueve
+.
+"*/9_gz002_.lab"
+0 9936 nueve
+.
+"*/9_gz002___.lab"
+0 10243 nueve
+.
+"*/9_gz005.lab"
+0 9343 nueve
+.
+"*/9_gz088.lab"
+0 9437 nueve
+.
+"*/9_gz088_.lab"
+0 8270 nueve
+.
+"*/9_gz102.lab"
+0 9059 nueve
+.
+"*/9_gz104.lab"
+0 7407 nueve
+.
+"*/9_gz105.lab"
+0 9130 nueve
+.
+"*/9_gz165.lab"
+0 6813 nueve
+.
+"*/9_gz175.lab"
+0 6479 nueve
+.
+"*/9_gz175_.lab"
+0 6866 nueve
+.
+"*/9_gz187.lab"
+0 8886 nueve
+.
+"*/9_gz187_.lab"
+0 6981 nueve
+.
+"*/9_gz199.lab"
+0 9835 nueve
+.
+"*/9_gz199_.lab"
+0 9329 nueve
+.
+#!MLF!#
+"*/0_gz005.lab"
+0 8973 cero
+.
+"*/0_gz039.lab"
+0 10102 cero
+.
+"*/0_gz088.lab"
+0 10021 cero
+.
+"*/0_gz088_.lab"
+0 10119 cero
+.
+"*/0_gz157.lab"
+0 6011 cero
+.
+"*/0_gz163.lab"
+0 7419 cero
+.
+"*/0_gz175.lab"
+0 8737 cero
+.
+"*/0_gz175_.lab"
+0 8479 cero
+.
+"*/0_gz175__.lab"
+0 6607 cero
+.
+"*/0_gz181.lab"
+0 6760 cero
+.
+"*/0_gz181_.lab"
+0 7399 cero
+.
+"*/0_gz187.lab"
+0 7934 cero
+.
+"*/0_gz200.lab"
+0 8170 cero
+.
+"*/0_gz200_.lab"
+0 7972 cero
+.
+"*/1_gz002.lab"
+0 7688 uno
+.
+"*/1_gz005.lab"
+0 6560 uno
+.
+"*/1_gz029.lab"
+0 7285 uno
+.
+"*/1_gz039.lab"
+0 9992 uno
+.
+"*/1_gz104.lab"
+0 6307 uno
+.
+"*/1_gz105.lab"
+0 6382 uno
+.
+"*/1_gz105_.lab"
+0 6153 uno
+.
+"*/1_gz105__.lab"
+0 7756 uno
+.
+"*/1_gz153.lab"
+0 4626 uno
+.
+"*/1_gz153_.lab"
+0 5292 uno
+.
+"*/1_gz163.lab"
+0 5233 uno
+.
+"*/1_gz173.lab"
+0 6551 uno
+.
+"*/1_gz173_.lab"
+0 6105 uno
+.
+"*/1_gz173__.lab"
+0 5971 uno
+.
+"*/1_gz200.lab"
+0 7185 uno
+.
+"*/2_gz039.lab"
+0 11205 dos
+.
+"*/2_gz088.lab"
+0 6420 dos
+.
+"*/2_gz088_.lab"
+0 8853 dos
+.
+"*/2_gz088__.lab"
+0 8853 dos
+.
+"*/2_gz105.lab"
+0 6229 dos
+.
+"*/2_gz157.lab"
+0 5585 dos
+.
+"*/2_gz161.lab"
+0 6805 dos
+.
+"*/2_gz167.lab"
+0 6702 dos
+.
+"*/2_gz181.lab"
+0 5821 dos
+.
+"*/2_gz187.lab"
+0 6908 dos
+.
+"*/2_gz187_.lab"
+0 6322 dos
+.
+"*/2_gz188.lab"
+0 7528 dos
+.
+"*/2_gz199.lab"
+0 5887 dos
+.
+"*/2_gz200.lab"
+0 7087 dos
+.
+"*/3_gz002.lab"
+0 8301 tres
+.
+"*/3_gz005.lab"
+0 7766 tres
+.
+"*/3_gz029.lab"
+0 7475 tres
+.
+"*/3_gz029_.lab"
+0 6811 tres
+.
+"*/3_gz039.lab"
+0 8557 tres
+.
+"*/3_gz101.lab"
+0 7383 tres
+.
+"*/3_gz104.lab"
+0 5957 tres
+.
+"*/3_gz105.lab"
+0 8596 tres
+.
+"*/3_gz173.lab"
+0 5437 tres
+.
+"*/3_gz179.lab"
+0 5939 tres
+.
+"*/3_gz185.lab"
+0 7603 tres
+.
+"*/3_gz199.lab"
+0 6900 tres
+.
+"*/3_gz199_.lab"
+0 8317 tres
+.
+"*/3_gz200.lab"
+0 7480 tres
+.
+"*/3_gz200_.lab"
+0 6890 tres
+.
+"*/4_gz002.lab"
+0 8506 cuatro
+.
+"*/4_gz029.lab"
+0 8802 cuatro
+.
+"*/4_gz039.lab"
+0 10323 cuatro
+.
+"*/4_gz039_.lab"
+0 10543 cuatro
+.
+"*/4_gz101.lab"
+0 11033 cuatro
+.
+"*/4_gz153.lab"
+0 6878 cuatro
+.
+"*/4_gz153_.lab"
+0 6929 cuatro
+.
+"*/4_gz163.lab"
+0 7366 cuatro
+.
+"*/4_gz173.lab"
+0 6997 cuatro
+.
+"*/4_gz179.lab"
+0 8238 cuatro
+.
+"*/4_gz181.lab"
+0 6948 cuatro
+.
+"*/4_gz185.lab"
+0 6995 cuatro
+.
+"*/4_gz199.lab"
+0 9734 cuatro
+.
+"*/4_gz199_.lab"
+0 11151 cuatro
+.
+"*/4_gz199__.lab"
+0 9734 cuatro
+.
+"*/5_gz005.lab"
+0 10363 cinco
+.
+"*/5_gz029.lab"
+0 7190 cinco
+.
+"*/5_gz039.lab"
+0 10764 cinco
+.
+"*/5_gz039_.lab"
+0 11205 cinco
+.
+"*/5_gz039__.lab"
+0 11647 cinco
+.
+"*/5_gz088.lab"
+0 12649 cinco
+.
+"*/5_gz102.lab"
+0 7522 cinco
+.
+"*/5_gz104.lab"
+0 8806 cinco
+.
+"*/5_gz153.lab"
+0 8105 cinco
+.
+"*/5_gz163.lab"
+0 6950 cinco
+.
+"*/5_gz165.lab"
+0 8519 cinco
+.
+"*/5_gz173.lab"
+0 6863 cinco
+.
+"*/5_gz179.lab"
+0 8310 cinco
+.
+"*/5_gz179_.lab"
+0 8022 cinco
+.
+"*/5_gz185.lab"
+0 9682 cinco
+.
+"*/5_gz200.lab"
+0 11121 cinco
+.
+"*/6_gz002.lab"
+0 11675 seis
+.
+"*/6_gz002_.lab"
+0 9936 seis
+.
+"*/6_gz005.lab"
+0 9250 seis
+.
+"*/6_gz029.lab"
+0 10320 seis
+.
+"*/6_gz039.lab"
+0 8447 seis
+.
+"*/6_gz105.lab"
+0 7604 seis
+.
+"*/6_gz153.lab"
+0 7287 seis
+.
+"*/6_gz165.lab"
+0 9133 seis
+.
+"*/6_gz179.lab"
+0 7951 seis
+.
+"*/6_gz181.lab"
+0 10255 seis
+.
+"*/6_gz199.lab"
+0 10342 seis
+.
+"*/6_gz199_.lab"
+0 9228 seis
+.
+"*/6_gz200.lab"
+0 8858 seis
+.
+"*/6_gz200_.lab"
+0 9448 seis
+.
+"*/6_gz200__.lab"
+0 11220 seis
+.
+"*/7_gz002.lab"
+0 8198 siete
+.
+"*/7_gz002_.lab"
+0 10038 siete
+.
+"*/7_gz039.lab"
+0 10653 siete
+.
+"*/7_gz088.lab"
+0 12941 siete
+.
+"*/7_gz103.lab"
+0 9481 siete
+.
+"*/7_gz105.lab"
+0 9131 siete
+.
+"*/7_gz105_.lab"
+0 9818 siete
+.
+"*/7_gz105__.lab"
+0 9054 siete
+.
+"*/7_gz153.lab"
+0 7748 siete
+.
+"*/7_gz153_.lab"
+0 6161 siete
+.
+"*/7_gz163.lab"
+0 8095 siete
+.
+"*/7_gz179.lab"
+0 8130 siete
+.
+"*/7_gz185.lab"
+0 7379 siete
+.
+"*/7_gz200.lab"
+0 12006 siete
+.
+"*/8_gz104.lab"
+0 6207 ocho
+.
+"*/8_gz153.lab"
+0 5752 ocho
+.
+"*/8_gz163.lab"
+0 7002 ocho
+.
+"*/8_gz173.lab"
+0 6818 ocho
+.
+"*/8_gz175.lab"
+0 6995 ocho
+.
+"*/8_gz175_.lab"
+0 5059 ocho
+.
+"*/8_gz178.lab"
+0 8071 ocho
+.
+"*/8_gz181.lab"
+0 6611 ocho
+.
+"*/8_gz182.lab"
+0 7193 ocho
+.
+"*/8_gz182_.lab"
+0 6890 ocho
+.
+"*/8_gz182__.lab"
+0 6693 ocho
+.
+"*/8_gz184.lab"
+0 7678 ocho
+.
+"*/8_gz187.lab"
+0 8227 ocho
+.
+"*/8_gz187_.lab"
+0 8373 ocho
+.
+"*/8_gz199.lab"
+0 8823 ocho
+.
+"*/9_gz002.lab"
+0 9016 nueve
+.
+"*/9_gz002_.lab"
+0 9936 nueve
+.
+"*/9_gz002___.lab"
+0 10243 nueve
+.
+"*/9_gz005.lab"
+0 9343 nueve
+.
+"*/9_gz088.lab"
+0 9437 nueve
+.
+"*/9_gz088_.lab"
+0 8270 nueve
+.
+"*/9_gz102.lab"
+0 9059 nueve
+.
+"*/9_gz104.lab"
+0 7407 nueve
+.
+"*/9_gz105.lab"
+0 9130 nueve
+.
+"*/9_gz165.lab"
+0 6813 nueve
+.
+"*/9_gz175.lab"
+0 6479 nueve
+.
+"*/9_gz175_.lab"
+0 6866 nueve
+.
+"*/9_gz187.lab"
+0 8886 nueve
+.
+"*/9_gz187_.lab"
+0 6981 nueve
+.
+"*/9_gz199.lab"
+0 9835 nueve
+.
+"*/9_gz199_.lab"
+0 9329 nueve
+.
+#!MLF!#
+"*/0_gz005.lab"
+0 7983 cero
+.
+"*/0_gz039.lab"
+0 7985 cero
+.
+"*/0_gz088.lab"
+0 10021 cero
+.
+"*/0_gz088_.lab"
+0 10119 cero
+.
+"*/0_gz157.lab"
+0 6011 cero
+.
+"*/0_gz163.lab"
+0 7419 cero
+.
+"*/0_gz175.lab"
+0 8737 cero
+.
+"*/0_gz175_.lab"
+0 8479 cero
+.
+"*/0_gz175__.lab"
+0 6607 cero
+.
+"*/0_gz181.lab"
+0 6760 cero
+.
+"*/0_gz181_.lab"
+0 7399 cero
+.
+"*/0_gz184.lab"
+0 6057 cero
+.
+"*/0_gz187.lab"
+0 7934 cero
+.
+"*/0_gz200.lab"
+0 8170 cero
+.
+"*/0_gz200_.lab"
+0 7972 cero
+.
+"*/1_gz002.lab"
+0 7688 uno
+.
+"*/1_gz005.lab"
+0 6560 uno
+.
+"*/1_gz029.lab"
+0 7285 uno
+.
+"*/1_gz039.lab"
+0 9992 uno
+.
+"*/1_gz104.lab"
+0 6307 uno
+.
+"*/1_gz105.lab"
+0 6382 uno
+.
+"*/1_gz105_.lab"
+0 6153 uno
+.
+"*/1_gz105__.lab"
+0 7756 uno
+.
+"*/1_gz153.lab"
+0 4626 uno
+.
+"*/1_gz153_.lab"
+0 5292 uno
+.
+"*/1_gz163.lab"
+0 5233 uno
+.
+"*/1_gz173.lab"
+0 6551 uno
+.
+"*/1_gz173_.lab"
+0 6105 uno
+.
+"*/1_gz173__.lab"
+0 5971 uno
+.
+"*/1_gz200.lab"
+0 7185 uno
+.
+"*/2_gz039.lab"
+0 11205 dos
+.
+"*/2_gz088.lab"
+0 6420 dos
+.
+"*/2_gz088_.lab"
+0 8853 dos
+.
+"*/2_gz088__.lab"
+0 8853 dos
+.
+"*/2_gz105.lab"
+0 6229 dos
+.
+"*/2_gz157.lab"
+0 5585 dos
+.
+"*/2_gz161.lab"
+0 6805 dos
+.
+"*/2_gz167.lab"
+0 6702 dos
+.
+"*/2_gz181.lab"
+0 5821 dos
+.
+"*/2_gz187.lab"
+0 6908 dos
+.
+"*/2_gz187_.lab"
+0 6322 dos
+.
+"*/2_gz188.lab"
+0 7528 dos
+.
+"*/2_gz199.lab"
+0 5887 dos
+.
+"*/2_gz200.lab"
+0 7087 dos
+.
+"*/3_gz002.lab"
+0 8301 tres
+.
+"*/3_gz005.lab"
+0 7766 tres
+.
+"*/3_gz029.lab"
+0 7475 tres
+.
+"*/3_gz029_.lab"
+0 6811 tres
+.
+"*/3_gz039.lab"
+0 8557 tres
+.
+"*/3_gz101.lab"
+0 7383 tres
+.
+"*/3_gz104.lab"
+0 5957 tres
+.
+"*/3_gz105.lab"
+0 8596 tres
+.
+"*/3_gz173.lab"
+0 5437 tres
+.
+"*/3_gz179.lab"
+0 5939 tres
+.
+"*/3_gz185.lab"
+0 7603 tres
+.
+"*/3_gz199.lab"
+0 6900 tres
+.
+"*/3_gz199_.lab"
+0 8317 tres
+.
+"*/3_gz200.lab"
+0 7480 tres
+.
+"*/3_gz200_.lab"
+0 6890 tres
+.
+"*/4_gz002.lab"
+0 8506 cuatro
+.
+"*/4_gz029.lab"
+0 8802 cuatro
+.
+"*/4_gz039.lab"
+0 10323 cuatro
+.
+"*/4_gz039_.lab"
+0 10543 cuatro
+.
+"*/4_gz101.lab"
+0 11033 cuatro
+.
+"*/4_gz153.lab"
+0 6878 cuatro
+.
+"*/4_gz153_.lab"
+0 6929 cuatro
+.
+"*/4_gz163.lab"
+0 7366 cuatro
+.
+"*/4_gz173.lab"
+0 6997 cuatro
+.
+"*/4_gz179.lab"
+0 8238 cuatro
+.
+"*/4_gz181.lab"
+0 6948 cuatro
+.
+"*/4_gz185.lab"
+0 6995 cuatro
+.
+"*/4_gz199.lab"
+0 9734 cuatro
+.
+"*/4_gz199_.lab"
+0 11151 cuatro
+.
+"*/4_gz199__.lab"
+0 9734 cuatro
+.
+"*/5_gz005.lab"
+0 10363 cinco
+.
+"*/5_gz029.lab"
+0 7190 cinco
+.
+"*/5_gz039.lab"
+0 10764 cinco
+.
+"*/5_gz039_.lab"
+0 11205 cinco
+.
+"*/5_gz039__.lab"
+0 11647 cinco
+.
+"*/5_gz088.lab"
+0 12649 cinco
+.
+"*/5_gz102.lab"
+0 7522 cinco
+.
+"*/5_gz104.lab"
+0 8806 cinco
+.
+"*/5_gz153.lab"
+0 8105 cinco
+.
+"*/5_gz163.lab"
+0 6950 cinco
+.
+"*/5_gz165.lab"
+0 8519 cinco
+.
+"*/5_gz173.lab"
+0 6863 cinco
+.
+"*/5_gz179.lab"
+0 8310 cinco
+.
+"*/5_gz179_.lab"
+0 8022 cinco
+.
+"*/5_gz185.lab"
+0 9682 cinco
+.
+"*/5_gz200.lab"
+0 11121 cinco
+.
+"*/6_gz002.lab"
+0 11675 seis
+.
+"*/6_gz002_.lab"
+0 9936 seis
+.
+"*/6_gz005.lab"
+0 9250 seis
+.
+"*/6_gz029.lab"
+0 10320 seis
+.
+"*/6_gz039.lab"
+0 8447 seis
+.
+"*/6_gz105.lab"
+0 7604 seis
+.
+"*/6_gz153.lab"
+0 7287 seis
+.
+"*/6_gz165.lab"
+0 9133 seis
+.
+"*/6_gz179.lab"
+0 7951 seis
+.
+"*/6_gz181.lab"
+0 10255 seis
+.
+"*/6_gz199.lab"
+0 10342 seis
+.
+"*/6_gz199_.lab"
+0 9228 seis
+.
+"*/6_gz200.lab"
+0 8858 seis
+.
+"*/6_gz200_.lab"
+0 9448 seis
+.
+"*/6_gz200__.lab"
+0 11220 seis
+.
+"*/7_gz002.lab"
+0 8198 siete
+.
+"*/7_gz002_.lab"
+0 10038 siete
+.
+"*/7_gz039.lab"
+0 10653 siete
+.
+"*/7_gz088.lab"
+0 12941 siete
+.
+"*/7_gz103.lab"
+0 9481 siete
+.
+"*/7_gz105.lab"
+0 9131 siete
+.
+"*/7_gz105_.lab"
+0 9818 siete
+.
+"*/7_gz105__.lab"
+0 9054 siete
+.
+"*/7_gz153.lab"
+0 7748 siete
+.
+"*/7_gz153_.lab"
+0 6161 siete
+.
+"*/7_gz163.lab"
+0 8095 siete
+.
+"*/7_gz179.lab"
+0 8130 siete
+.
+"*/7_gz185.lab"
+0 7379 siete
+.
+"*/7_gz200.lab"
+0 12006 siete
+.
+"*/8_gz104.lab"
+0 6207 ocho
+.
+"*/8_gz153.lab"
+0 5752 ocho
+.
+"*/8_gz163.lab"
+0 7002 ocho
+.
+"*/8_gz173.lab"
+0 6818 ocho
+.
+"*/8_gz175.lab"
+0 6995 ocho
+.
+"*/8_gz175_.lab"
+0 5059 ocho
+.
+"*/8_gz178.lab"
+0 8071 ocho
+.
+"*/8_gz181.lab"
+0 6611 ocho
+.
+"*/8_gz182.lab"
+0 7193 ocho
+.
+"*/8_gz182_.lab"
+0 6890 ocho
+.
+"*/8_gz182__.lab"
+0 6693 ocho
+.
+"*/8_gz184.lab"
+0 7678 ocho
+.
+"*/8_gz187.lab"
+0 8227 ocho
+.
+"*/8_gz187_.lab"
+0 8373 ocho
+.
+"*/8_gz199.lab"
+0 8823 ocho
+.
+"*/9_gz002.lab"
+0 9016 nueve
+.
+"*/9_gz002_.lab"
+0 9936 nueve
+.
+"*/9_gz002___.lab"
+0 10243 nueve
+.
+"*/9_gz005.lab"
+0 9343 nueve
+.
+"*/9_gz088.lab"
+0 9437 nueve
+.
+"*/9_gz088_.lab"
+0 8270 nueve
+.
+"*/9_gz102.lab"
+0 9059 nueve
+.
+"*/9_gz104.lab"
+0 7407 nueve
+.
+"*/9_gz105.lab"
+0 9130 nueve
+.
+"*/9_gz165.lab"
+0 6813 nueve
+.
+"*/9_gz175.lab"
+0 6479 nueve
+.
+"*/9_gz175_.lab"
+0 6866 nueve
+.
+"*/9_gz187.lab"
+0 8886 nueve
+.
+"*/9_gz187_.lab"
+0 6981 nueve
+.
+"*/9_gz199.lab"
+0 9835 nueve
+.
+"*/9_gz199_.lab"
+0 9329 nueve
+.
