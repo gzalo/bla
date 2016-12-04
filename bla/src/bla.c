@@ -350,6 +350,8 @@ int blaReconocerBuffer(blaListado *listaProbabilidades, int cantidadLista, const
 
 	/*Devolvemos al usuario las cantidadLista palabras más probables
 	  extrayéndolas del vector ordenado */
+	if(cantidadLista > blaCantidadPalabras)
+		cantidadLista = blaCantidadPalabras;
 	for(i=0;i<cantidadLista;i++){
 		listaProbabilidades[i].idPalabra = logProb[i].idPalabra;
 		listaProbabilidades[i].probabilidad = logProb[i].probabilidad;
