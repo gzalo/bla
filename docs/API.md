@@ -3,6 +3,7 @@
 ## Inicialización
 
 `int blaInicializarBiblioteca(const char *palabrasAReconocer[], int cantidadPalabras);`
+
 Inicializa el reconocimiento, a la función se le pasa un vector de cadenas con las palabras que se desean reconocer, y su longitud. 
 
 Devuelve BLA_OK si fue inicializada correctamente.
@@ -18,6 +19,7 @@ En el caso de que las muestras estén disponibles de a bloques, se deberá llama
 ## Detección comienzo/fin de palabra
 
 `int blaDeteccionPeriodica(void);`
+
 Periódicamente se deberá llamar a esta función, que se encarga de verificar si comenzó o terminó una palabra. 
 
 El periódo con el que se llame a esta función deberá ser de aproximadamente 10 ms, no importa si tiene un poco de fluctuaciones. Si es mucho más grande que 10 ms, puede que aumente la tasa de error del reconocimiento.

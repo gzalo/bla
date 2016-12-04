@@ -5,7 +5,7 @@ La idea es poder integrar de forma sencilla a una aplicación embebida ya existe
 
 Se incluye código de prueba para un microcontrolador de 32 bits LPC4337 (ARM Cortex M4/M0) como el de la Computadora Industrial Abierta Argentina (CIAA), en ejemplos/EDU-CIAA-baremetal.
 
-[Documentación básica de la API](docs/API.MD)
+[Documentación básica de la API](docs/API.md)
 
 El proyecto fue desarrollado como trabajo final para la materia ["Seminario de Sistemas Embebidos"](http://laboratorios.fi.uba.ar/lse/seminario/) de la Facultad de Ingeniería de la UBA (FIUBA), en Buenos Aires, Argentina.
 
