@@ -188,6 +188,8 @@ int blaObtenerCoeficientes(const int16_t *buffer, float *vecMFCC){
 	}
 
 	/*Remuevo un posible offset de continua*/
+	/*TODO: En teoría esta operación tendría que hacerse con todo el buffer
+	  pero no parece cambiar mucho*/
 	blaRemoverContinua();
 	
 	/*Preénfasis, filtrado pasa altos del bloque*/

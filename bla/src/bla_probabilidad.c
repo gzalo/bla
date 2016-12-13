@@ -53,26 +53,9 @@ inline static float blaSumarProbabilidad(float a, float b){
 
 /*Probabilidad(Log) de una determinada observación x, dada una gaussiana N dimensional dada*/
 inline static float blaProbabilidadGaussiana(const blaMezcla_t *mezcla, float *x){
-	#ifndef BLA_INV_VARIANZA
-		#error Falta escribir el código optimizado para el caso de matrices con inversa de varianza!
-	#endif
-	
 	int i;
 	float prob = mezcla->constante;
-
 	
-	#if 0
-		/*Código un poco más rápido, usando funciones de la biblioteca CMSIS-DSp*/
-		float32_t buffer[NUMERODIMENSIONES];
-		arm_sub_f32((float32_t*)x, (float32_t*)mezcla->medias, buffer, NUMERODIMENSIONES); /*Resto las medias componente a componente*/
-		arm_mult_f32(buffer, buffer, buffer, NUMERODIMENSIONES); /* Elevo al cuadrado */
-		arm_mult_f32(buffer, (float32_t*)mezcla->varianzas, buffer, NUMERODIMENSIONES); /* Multiplico por las inverzas de las varianzas */
-		
-		for(i=0;i<NUMERODIMENSIONES;i++)
-			prob += buffer[i];
-	#endif	
-	
-	/*Código original lento*/
 	for(i=0;i<NUMERODIMENSIONES;i++){
 		float xSinMedia = x[i] - mezcla->medias[i];
 		/* LogProb de una gaussiana con matriz de covarianza diagonal */

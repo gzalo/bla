@@ -168,7 +168,7 @@ int blaDeteccionPeriodica(void){
 				de una palabra luego de un silencio (por ejemplo, en la palabra siete), 
 				Volvemos a esperar que baje la energía */
 			if(blaAcumuladorEnergia > BLA_UMBRAL_ENERGIA_FIN){
-				blaEstadoDeteccion = BLA_ESPERANDO_COMIENZO;
+				blaEstadoDeteccion = BLA_ESPERANDO_COMIENZO; /*TODO: Arreglar este bug*/
 				return BLA_FIN_PALABRA;
 			}
 			
