@@ -1,0 +1,388 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:amplif_mic_educiaa-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Amplificador de micrófono electret para EDU-CIAA"
+Date "2017-05-25"
+Rev "1"
+Comp "Gzalo (Gonzalo Ávila Alterach)"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L CONN_01X06 J1
+U 1 1 59265886
+P 2000 3400
+F 0 "J1" H 2000 3750 50  0000 C CNN
+F 1 "CONN_01X06" V 2100 3400 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm" H 2000 3400 50  0001 C CNN
+F 3 "" H 2000 3400 50  0001 C CNN
+	1    2000 3400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 3150 2350 3150
+Wire Wire Line
+	2350 3150 2350 3000
+Wire Wire Line
+	2200 3650 2350 3650
+Wire Wire Line
+	2350 3650 2350 3750
+Text Label 2350 3550 0    60   ~ 0
+adc_ch1
+NoConn ~ 2200 3350
+NoConn ~ 2200 3250
+$Comp
+L C C1
+U 1 1 59265A53
+P 3300 3350
+F 0 "C1" H 3325 3450 50  0000 L CNN
+F 1 "100n" H 3325 3250 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3338 3200 50  0001 C CNN
+F 3 "" H 3300 3350 50  0001 C CNN
+	1    3300 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCP6002 U1
+U 1 1 59265A9F
+P 6400 3300
+F 0 "U1" H 6400 3450 50  0000 L CNN
+F 1 "MCP6002" H 6400 3150 50  0000 L CNN
+F 2 "Housings_DIP:DIP-8_W7.62mm" H 6300 3350 50  0001 C CNN
+F 3 "" H 6400 3450 50  0001 C CNN
+	1    6400 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCP6002 U1
+U 2 1 59265AD6
+P 3500 4850
+F 0 "U1" H 3500 5000 50  0000 L CNN
+F 1 "MCP6002" H 3500 4700 50  0000 L CNN
+F 2 "Housings_DIP:DIP-8_W7.62mm" H 3400 4900 50  0001 C CNN
+F 3 "" H 3500 5000 50  0001 C CNN
+	2    3500 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR03
+U 1 1 59265B0B
+P 6300 3000
+F 0 "#PWR03" H 6300 2850 50  0001 C CNN
+F 1 "+3.3V" H 6300 3140 50  0000 C CNN
+F 2 "" H 6300 3000 50  0001 C CNN
+F 3 "" H 6300 3000 50  0001 C CNN
+	1    6300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR04
+U 1 1 59265B27
+P 3400 4550
+F 0 "#PWR04" H 3400 4400 50  0001 C CNN
+F 1 "+3.3V" H 3400 4690 50  0000 C CNN
+F 2 "" H 3400 4550 50  0001 C CNN
+F 3 "" H 3400 4550 50  0001 C CNN
+	1    3400 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR05
+U 1 1 59265B5F
+P 3400 5150
+F 0 "#PWR05" H 3400 4900 50  0001 C CNN
+F 1 "GND" H 3400 5000 50  0000 C CNN
+F 2 "" H 3400 5150 50  0001 C CNN
+F 3 "" H 3400 5150 50  0001 C CNN
+	1    3400 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR06
+U 1 1 59265BEC
+P 6300 3650
+F 0 "#PWR06" H 6300 3400 50  0001 C CNN
+F 1 "GND" H 6300 3500 50  0000 C CNN
+F 2 "" H 6300 3650 50  0001 C CNN
+F 3 "" H 6300 3650 50  0001 C CNN
+	1    6300 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 3600 6300 3650
+Wire Wire Line
+	3200 4950 3100 4950
+Wire Wire Line
+	3100 4950 3100 5450
+Wire Wire Line
+	3100 5450 3950 5450
+Wire Wire Line
+	3950 5450 3950 4850
+Wire Wire Line
+	3950 4850 3800 4850
+$Comp
+L R R2
+U 1 1 59265C50
+P 4950 4250
+F 0 "R2" V 5030 4250 50  0000 C CNN
+F 1 "10k" V 4950 4250 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 4880 4250 50  0001 C CNN
+F 3 "" H 4950 4250 50  0001 C CNN
+	1    4950 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R3
+U 1 1 59265C87
+P 4950 4650
+F 0 "R3" V 5030 4650 50  0000 C CNN
+F 1 "10k" V 4950 4650 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 4880 4650 50  0001 C CNN
+F 3 "" H 4950 4650 50  0001 C CNN
+	1    4950 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 4400 4950 4500
+Wire Wire Line
+	4950 4450 5250 4450
+Connection ~ 4950 4450
+Text Label 5250 4450 0    60   ~ 0
+vref
+$Comp
+L +3.3V #PWR07
+U 1 1 59265CE8
+P 4950 4100
+F 0 "#PWR07" H 4950 3950 50  0001 C CNN
+F 1 "+3.3V" H 4950 4240 50  0000 C CNN
+F 2 "" H 4950 4100 50  0001 C CNN
+F 3 "" H 4950 4100 50  0001 C CNN
+	1    4950 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR08
+U 1 1 59265D08
+P 4950 4900
+F 0 "#PWR08" H 4950 4650 50  0001 C CNN
+F 1 "GND" H 4950 4750 50  0000 C CNN
+F 2 "" H 4950 4900 50  0001 C CNN
+F 3 "" H 4950 4900 50  0001 C CNN
+	1    4950 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4950 4800 4950 4900
+$Comp
+L GND #PWR09
+U 1 1 59265D6F
+P 3300 3600
+F 0 "#PWR09" H 3300 3350 50  0001 C CNN
+F 1 "GND" H 3300 3450 50  0000 C CNN
+F 2 "" H 3300 3600 50  0001 C CNN
+F 3 "" H 3300 3600 50  0001 C CNN
+	1    3300 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L +3.3V #PWR010
+U 1 1 59265D8F
+P 3300 3100
+F 0 "#PWR010" H 3300 2950 50  0001 C CNN
+F 1 "+3.3V" H 3300 3240 50  0000 C CNN
+F 2 "" H 3300 3100 50  0001 C CNN
+F 3 "" H 3300 3100 50  0001 C CNN
+	1    3300 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 3100 3300 3200
+Wire Wire Line
+	3300 3600 3300 3500
+$Comp
+L Microphone MK1
+U 1 1 59265E64
+P 4750 3250
+F 0 "MK1" H 4600 3300 50  0000 R CNN
+F 1 "Microphone" H 4600 3225 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm" V 4750 3350 50  0001 C CNN
+F 3 "" V 4750 3350 50  0001 C CNN
+	1    4750 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR011
+U 1 1 59265EAB
+P 4750 3600
+F 0 "#PWR011" H 4750 3350 50  0001 C CNN
+F 1 "GND" H 4750 3450 50  0000 C CNN
+F 2 "" H 4750 3600 50  0001 C CNN
+F 3 "" H 4750 3600 50  0001 C CNN
+	1    4750 3600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 3600 4750 3450
+Wire Wire Line
+	5850 3200 6100 3200
+Text Label 5850 3200 0    60   ~ 0
+vref
+Text Notes 6050 4200 0    60   ~ 0
+GBW = 1 MHz\nMáxima ganancia con BW=16 kHz : 62
+$Comp
+L R R1
+U 1 1 59266026
+P 4750 2800
+F 0 "R1" V 4830 2800 50  0000 C CNN
+F 1 "10k" V 4750 2800 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 4680 2800 50  0001 C CNN
+F 3 "" H 4750 2800 50  0001 C CNN
+	1    4750 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 2950 4750 3050
+$Comp
+L R R5
+U 1 1 5926607C
+P 6300 2550
+F 0 "R5" V 6380 2550 50  0000 C CNN
+F 1 "100k" V 6300 2550 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 6230 2550 50  0001 C CNN
+F 3 "" H 6300 2550 50  0001 C CNN
+	1    6300 2550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6450 2550 6800 2550
+Wire Wire Line
+	6800 2550 6800 3300
+Wire Wire Line
+	6700 3300 7100 3300
+Wire Wire Line
+	5650 3400 6100 3400
+Wire Wire Line
+	5700 3400 5700 2550
+Wire Wire Line
+	5700 2550 6150 2550
+$Comp
+L R R4
+U 1 1 59266348
+P 5500 3400
+F 0 "R4" V 5580 3400 50  0000 C CNN
+F 1 "1k" V 5500 3400 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 5430 3400 50  0001 C CNN
+F 3 "" H 5500 3400 50  0001 C CNN
+	1    5500 3400
+	0    1    1    0   
+$EndComp
+Connection ~ 5700 3400
+$Comp
+L C C2
+U 1 1 5926640B
+P 5150 3400
+F 0 "C2" H 5175 3500 50  0000 L CNN
+F 1 "10u" H 5175 3300 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 5188 3250 50  0001 C CNN
+F 3 "" H 5150 3400 50  0001 C CNN
+	1    5150 3400
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5300 3400 5350 3400
+Wire Wire Line
+	5000 3400 5000 3000
+Wire Wire Line
+	5000 3000 4750 3000
+Connection ~ 4750 3000
+$Comp
+L +3.3V #PWR012
+U 1 1 5926649B
+P 4750 2650
+F 0 "#PWR012" H 4750 2500 50  0001 C CNN
+F 1 "+3.3V" H 4750 2790 50  0000 C CNN
+F 2 "" H 4750 2650 50  0001 C CNN
+F 3 "" H 4750 2650 50  0001 C CNN
+	1    4750 2650
+	1    0    0    -1  
+$EndComp
+Text Notes 6100 4500 0    60   ~ 0
+Filtro usado:\nButterworth 4to orden (Ganancia 100, -1dB a 16 khz, -20db a 35khz)
+Connection ~ 6800 3300
+Text Label 7100 3300 0    60   ~ 0
+adc_ch1
+NoConn ~ 2200 3550
+Wire Wire Line
+	2200 3450 2350 3450
+Wire Wire Line
+	2350 3450 2350 3550
+Wire Wire Line
+	2800 4900 2800 4750
+Wire Wire Line
+	2800 4750 3200 4750
+Text Label 2800 4900 0    60   ~ 0
+vref
+$Comp
+L GND #PWR?
+U 1 1 5929C6EA
+P 2450 3100
+F 0 "#PWR?" H 2450 2850 50  0001 C CNN
+F 1 "GND" H 2450 2950 50  0000 C CNN
+F 2 "" H 2450 3100 50  0001 C CNN
+F 3 "" H 2450 3100 50  0001 C CNN
+	1    2450 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2350 3000 2450 3000
+Wire Wire Line
+	2450 3000 2450 3100
+$Comp
+L +3.3V #PWR?
+U 1 1 5929C750
+P 2500 3750
+F 0 "#PWR?" H 2500 3600 50  0001 C CNN
+F 1 "+3.3V" H 2500 3890 50  0000 C CNN
+F 2 "" H 2500 3750 50  0001 C CNN
+F 3 "" H 2500 3750 50  0001 C CNN
+	1    2500 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2350 3750 2500 3750
+$EndSCHEMATC
