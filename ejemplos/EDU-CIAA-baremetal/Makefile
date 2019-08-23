@@ -63,7 +63,7 @@ $(TARGET): $(OBJECTS) Makefile
 	$(Q)echo Executable SIZE:
 	$(Q)$(SIZE) $@
 
-.PHONY: clean debug openocd
+.PHONY: clean debug openocd run reset
 
 openocd:
 	$(Q)$(OOCD) -f ciaa-nxp.cfg
@@ -71,7 +71,7 @@ openocd:
 debug: $(TARGET)
 	$(Q)$(GDB) $< -ex "target remote :3333" -ex "mon reset halt" -ex "load" -ex "continue"
 
-_run: $(TARGET)
+reset: $(TARGET)
 	$(Q)$(GDB) $< -batch -ex "target remote :3333" -ex "mon reset halt" -ex "load" -ex "mon reset run" -ex "quit"
 
 run: $(TARGET)
@@ -79,15 +79,14 @@ run: $(TARGET)
 		-c "init" \
 		-c "halt 0" \
 		-c "flash write_image erase unlock $(APP).bin 0x1A000000 bin" \
+		-c "flash write_image erase unlock $(APP)_bankB.bin 0x1B000000 bin" \
 		-c "reset run" \
 		-c "shutdown"
-	 rem -c "flash write_image erase unlock $(APP)_bankB.bin 0x1B000000 bin" \
-	
-		
+			
 erase:
 	$(Q)$(OOCD) -f ciaa-nxp.cfg \
 		-c "init" -c "halt 0" -c "flash erase_sector 0 0 last" -c "shutdown"
 
 clean:
 	@echo "CLEAN"
-	C:\MinGW\msys\1.0\bin\rm.exe -fR $(OBJECTS) $(TARGET) $(DEPS) $(APP).lst
+	rm -fR $(OBJECTS) $(TARGET) $(DEPS) $(APP).lst
